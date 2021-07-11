@@ -10,7 +10,7 @@ learn a lot during these 7 days and it was an amazing experience learning with S
 
 <br><br>Here's the link for you to watch the sessions as well<br>
 
-<a href="https://youtu.be/87M1FMX7-t8"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/YOUTUBE%20THUMBNAIL-4.png"> </a>
+<a href="https://youtu.be/87M1FMX7-t8"> </a>
 
 <br>I got to have hands on experience on:
 

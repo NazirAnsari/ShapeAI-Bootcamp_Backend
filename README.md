@@ -10,7 +10,7 @@ learn a lot during these 7 days and it was an amazing experience learning with S
 
 <br><br>Here's the link for you to watch the sessions as well<br>
 
-<a href="https://youtu.be/87M1FMX7-t8"> </a>
+<a href="https://youtu.be/87M1FMX7-t8"> Watch this session </a>
 
 <br>I got to have hands on experience on:
 
